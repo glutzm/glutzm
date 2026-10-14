@@ -1,4 +1,20 @@
 ### Hello there 👋
+
+<picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api?username=glutzm&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api?username=glutzm&theme=light_github" alt="Gustavo's GitHub stats" />
+  </picture>
+<br>
+<picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=glutzm&langs_count=4&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=glutzm&langs_count=4&theme=light_github" alt="Top Langs" />
+  </picture>
   
 ## Technologies
   
