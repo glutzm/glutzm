@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-<pre style="font-size: 12px; line-height: 1.1;">
+<pre style="background-color: #0d1117; color: #c9d1d9; padding: 16px; border-radius: 6px; font-family: monospace; font-size: 12px; line-height: 1.1; overflow-x: auto;">
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::    glutzm@profile
 :::::::::::::::::::::::::::----:::::::::::::::::::::::::::    ----------------
 ::::::::::::::::::::::::::::.....:::::::::::::::::::::::::    Name:       Gustavo Antonio Lutz de Matos
